@@ -14,7 +14,7 @@ header {
 	flex-direction: column;
 	align-items: center;
 	animation: change-bg 12s infinite;
-  transform: all ease;
+  transform: initial;
   
   
 }
@@ -67,7 +67,7 @@ h4{
 		background-image: url(sunflower.jpeg);
 	}
 	75%{
-    background-image: url(computer.jpg);
+    background-image: url(mountain.jpg);
 	}
 	100% {
     background-image: url(beach.jpeg);		
